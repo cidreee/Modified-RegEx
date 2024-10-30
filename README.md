@@ -4,7 +4,7 @@ A Python-based GUI application for advanced pattern search in text files, built 
 
 ---
 
-## 🚀 Features
+## Features
 - **Pattern Matching**: Supports standard regex-like operators (`*`, `|`, `?`, character ranges, etc.) for versatile searches.
 - **GUI Interface**: User-friendly interface for selecting files, entering search patterns, and viewing results.
 - **Case Sensitivity and Global Matching**: Optional flags for case-insensitive and global searches.
@@ -12,7 +12,7 @@ A Python-based GUI application for advanced pattern search in text files, built 
 
 ---
 
-## 📥 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Python 3.x
