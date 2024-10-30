@@ -21,4 +21,5 @@ A Python-based GUI application for advanced pattern search in text files, built 
 ### Installation
 Clone this repository:
 ```bash
-git clone https://github.com/username/ModifiedRegexGUI.git
+git clone https://github.com/cidreee/Modified-RegEx
+
