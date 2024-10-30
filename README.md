@@ -1,5 +1,5 @@
-ModifiedRegex GUI Interface
-A Python-based GUI application for advanced pattern search in text files, built with tkinter. This tool performs efficient, regex-like searches using a modified Boyer-Moore algorithm with a customizable bad match table, providing quick and flexible pattern matching.
+#ModifiedRegex GUI Interface
+##A Python-based GUI application for advanced pattern search in text files, built with tkinter. This tool performs efficient, regex-like searches using a modified Boyer-Moore algorithm with a customizable bad match table, providing quick and flexible pattern matching.
 
 Features
 Pattern Matching: Supports standard regex-like operators (*, |, ?, character ranges, etc.) for versatile searches.
